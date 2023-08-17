@@ -8,3 +8,6 @@ Variables and Data Types
 
 DAY 3 - BASIC:
 Conditionals
+
+DAY 4a - BASIC:
+Type Casting (Conversion)
