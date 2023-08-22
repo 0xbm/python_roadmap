@@ -11,3 +11,6 @@ Conditionals
 
 DAY 4a - BASIC:
 Type Casting (Conversion)
+
+DAY 4b - BASIC:
+Exceptions
