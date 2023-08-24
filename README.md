@@ -14,3 +14,7 @@ Type Casting (Conversion)
 
 DAY 4b - BASIC:
 Exceptions
+
+DAY 5 - BASIC:
+Functions
+
