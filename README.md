@@ -18,3 +18,6 @@ Exceptions
 DAY 5 - BASIC:
 Functions
 
+DAY 6a - BASIC:
+Data Structures:
+List
