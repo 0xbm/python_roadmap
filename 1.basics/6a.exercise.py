@@ -3,7 +3,7 @@ def walletw():
     wallet = []
     Choose = None
     while Choose != '0':
-        print("1.Deposit \n2.Withdrawal \n3.Saldo ")
+        print("1.Deposit \n2.Withdrawal \n3.Saldo \n0.QUIT")
         Choose = input("Choose number:")
         if Choose == "1":
             cash = input("Add Cash:")
