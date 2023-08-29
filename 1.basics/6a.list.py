@@ -1,4 +1,8 @@
 print("""
+Use List:
+When you need to mutate your collection. MUTABLE
+When you need to remove or add new items to your collection of items.
+
 1. Create list 
 my_list = ['one', 1, 'two', 2, 'x']
 
@@ -9,12 +13,12 @@ my_list = ['one', 1, 'two', 2, 'x']
 -5  -4  -3  -2  -1
 
 Ex:
-my_list[-2]     # 2
-my_list[:1]     # 'one'
-my_list[1:]     # 1, 'two', 2, 'x' 
-my_list[2:5]    # 'two', 2, 'x' 
-my_list[::2]    # 'one', 'two', 'x'
-my_list[::-1]   # 'x', 2, 'two', 1, 'one'
+my_list[-2]     # [2]
+my_list[:1]     # ['one']
+my_list[1:]     # [1, 'two', 2, 'x'] 
+my_list[2:5]    # ['two', 2, 'x'] 
+my_list[::2]    # ['one', 'two', 'x']
+my_list[::-1]   # ['x', 2, 'two', 1, 'one']
 
 3. Basic list operations
 

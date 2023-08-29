@@ -21,3 +21,7 @@ Functions
 DAY 6a - BASIC:
 Data Structures:
 List
+
+DAY 6b - BASIC:
+Data Structures:
+Tuples
