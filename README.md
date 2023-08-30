@@ -25,3 +25,7 @@ List
 DAY 6b - BASIC:
 Data Structures:
 Tuples
+
+DAY 6c - BASIC:
+Data Structures:
+Sets
