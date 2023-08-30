@@ -6,7 +6,7 @@ nameSet.add("c")
 print(nameSet)      # {'a', 'c', 'b'}  # za drugim razem inna konfiguracja !!!! {'c', 'a', 'b'}
 
 1. Create set
-my_set = {"Geeks", "for", 10, 52.7, True}       # {True, 10, 'Geeks', 52.7, 'for'}
+my_set = {"Geeks", "for", 10, 52.7, True}       # {True, 10, 'Geeks', 52.7, 'for'}  # pierwszy 
 
 
 2. Slicing - NO SLICE
@@ -28,5 +28,7 @@ Rest of known methods:
 *pop
 *remove
 *intersection  # zwraca z dwoch setow te same dane (np. ten sam string, ktory wystepuje w dwoch setach)
+*sorted # print(sorted(my_set))
+
 
 """)
