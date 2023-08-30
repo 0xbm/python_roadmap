@@ -30,5 +30,4 @@ Rest of known methods:
 *intersection  # zwraca z dwoch setow te same dane (np. ten sam string, ktory wystepuje w dwoch setach)
 *sorted # print(sorted(my_set))
 
-
 """)
